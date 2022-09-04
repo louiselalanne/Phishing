@@ -19,4 +19,7 @@ Next, run the following command to install flask into your virtual environment.
 pip install Flask
 ```
 
-Check on localhost:5000
+Check on
+```
+localhost:5000
+```
