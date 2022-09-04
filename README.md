@@ -2,6 +2,7 @@
 
 Mostly in phishing attacks we usually get phishing emails. A Phishing email is a cybercrime that uses deception to steal confidential details about users and organizations.
 
+You need to make your html.
 Flask is the python module used to create instances of web application. To avoid conflicts with libraries, install Flask in a virtual environment.
 
 Mac/Ubuntu:
